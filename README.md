@@ -1,5 +1,7 @@
 # Strapi Starter Gridsome Blog
 
+> Demo repo, forked from https://github.com/strapi/strapi-starter-gridsome-blog
+
 Gridsome starter for creating a great blog with Strapi.
 
 ![screenshot image](/screenshot.png)
@@ -50,7 +52,7 @@ You will need to deploy the `frontend` and `backend` projects separately. Here a
 
 Don't forget to setup the environment variables on your production app:
 
-For the frontend the following environment variable is required: 
+For the frontend the following environment variable is required:
 - `GRIDSOME_STRAPI_URL`: URL of your Strapi backend, without trailing slash
 
 
